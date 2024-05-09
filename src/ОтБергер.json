@@ -1,0 +1,195 @@
+{
+  "Page Setup": {
+    "left_margin": 30,
+    "right_margin": 10,
+    "top_margin": 20,
+    "bottom_margin": 20
+  },
+  "Styles": {
+    "Main Text": {
+      "font": {
+        "name": "Times New Roman",
+        "size": 14,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "all_caps": false
+      },
+      "paragraph": {
+        "alignment": "justify",
+        "first_line_indent": 12.5,
+        "left_indent": 0,
+        "right_indent": 0,
+        "space_before": 0,
+        "space_after": 0,
+        "line_spacing": 1.5,
+        "widow_control": true,
+        "keep_with_next": false,
+        "keep_together": false,
+        "page_break_before": false
+      }
+    },
+    "Heading 1": {
+      "font": {
+        "name": "Times New Roman",
+        "size": 18,
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "all_caps": true
+      },
+      "paragraph": {
+        "alignment": "left",
+        "first_line_indent": false,
+        "left_indent": 12.5,
+        "right_indent": 0,
+        "space_before": 0,
+        "space_after": 10,
+        "line_spacing": 1.5,
+        "widow_control": false,
+        "keep_with_next": true,
+        "keep_together": false,
+        "page_break_before": true
+      }
+    },
+    "Heading 2": {
+      "font": {
+        "name": "Times New Roman",
+        "size": 16,
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "all_caps": false
+      },
+      "paragraph": {
+        "alignment": "left",
+        "first_line_indent": false,
+        "left_indent": 12.5,
+        "right_indent": 0,
+        "space_before": 15,
+        "space_after": 10,
+        "line_spacing": 1.5,
+        "widow_control": true,
+        "keep_with_next": true,
+        "keep_together": false,
+        "page_break_before": false
+      }
+    },
+    "Heading 3": {
+      "font": {
+        "name": "Times New Roman",
+        "size": 14,
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "all_caps": false
+      },
+      "paragraph": {
+        "alignment": "left",
+        "first_line_indent": false,
+        "left_indent": 12.5,
+        "right_indent": 0,
+        "space_before": 15,
+        "space_after": 10,
+        "line_spacing": 1.5,
+        "widow_control": true,
+        "keep_with_next": true,
+        "keep_together": false,
+        "page_break_before": false
+      }
+    },
+    "Picture Name": {
+      "font": {
+        "name": "Times New Roman",
+        "size": 12,
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "all_caps": false
+      },
+      "paragraph": {
+        "alignment": "center",
+        "first_line_indent": false,
+        "left_indent": 0,
+        "right_indent": 0,
+        "space_before": 0,
+        "space_after": 6,
+        "line_spacing": 1,
+        "widow_control": true,
+        "keep_with_next": false,
+        "keep_together": false,
+        "page_break_before": false
+      }
+    },
+    "Picture": {
+      "font": {
+        "name": "Times New Roman",
+        "size": 0,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "all_caps": false
+      },
+      "paragraph": {
+        "alignment": "center",
+        "first_line_indent": false,
+        "left_indent": 0,
+        "right_indent": 0,
+        "space_before": 0,
+        "space_after": 0,
+        "line_spacing": 0,
+        "widow_control": false,
+        "keep_with_next": false,
+        "keep_together": false,
+        "page_break_before": false
+      }
+    },
+    "Code Name": {
+      "font": {
+        "name": "Times New Roman",
+        "size": 12,
+        "bold": false,
+        "italic": true,
+        "underline": false,
+        "all_caps": false
+      },
+      "paragraph": {
+        "alignment": "left",
+        "first_line_indent": 0,
+        "left_indent": 0,
+        "right_indent": 0,
+        "space_before": 6,
+        "space_after": 0,
+        "line_spacing": 1,
+        "widow_control": true,
+        "keep_with_next": false,
+        "keep_together": false,
+        "page_break_before": true
+      }
+    },
+    "Code Text": {
+      "font": {
+        "name": "Courier New",
+        "size": 10,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "all_caps": false
+      },
+      "paragraph": {
+        "alignment": "justify",
+        "first_line_indent": 12.5,
+        "left_indent": 0,
+        "right_indent": 0,
+        "space_before": 0,
+        "space_after": 0,
+        "line_spacing": 1,
+        "widow_control": false,
+        "keep_with_next": false,
+        "keep_together": false,
+        "page_break_before": false
+      }
+    }
+  }
+}
+
